@@ -1,0 +1,1 @@
+Practicing the things I learned in the Git Basics from the Odin Project.
