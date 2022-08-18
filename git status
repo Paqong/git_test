@@ -1,0 +1,23 @@
+[33mcommit c417cff0453e8d015991a701777405b2ab58f313[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Mark <johnmarkmorada0@gmail.com>
+Date:   Thu Aug 18 21:01:51 2022 +0800
+
+    Practicing my learnings from the git basics
+
+[33mcommit 121f043313910134f296421d988feeb1d89a0fa5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mark <johnmarkmorada0@gmail.com>
+Date:   Thu Aug 18 20:48:09 2022 +0800
+
+    Edit README.md and hello_world.txt
+
+[33mcommit a7fc4fd638f5cbf17060eee36571361d5062f9a9[m
+Author: Mark <johnmarkmorada0@gmail.com>
+Date:   Thu Aug 18 20:41:29 2022 +0800
+
+    Add hello_world.txt
+
+[33mcommit 22ba01fa2eaf383eac1fd5af14cf1c4b17cdb43a[m
+Author: John Mark <98504627+Paqong@users.noreply.github.com>
+Date:   Thu Aug 18 20:36:59 2022 +0800
+
+    Initial commit
